@@ -37,6 +37,8 @@
 
 <img width="921" alt="쓰담쓰담 협업" src="https://github.com/user-attachments/assets/2f2219f2-83cd-43b6-af99-31e71be72bea" />
 
+<img width="604" alt="서비스 유스케이스모델" src="https://github.com/user-attachments/assets/3da3193e-6227-4788-81e2-2301f6fef9f9" />
+
 <Figma Design>
   
 ![image (2)](https://github.com/user-attachments/assets/a4919cd2-1bb6-4528-b570-b4c32c2bde6b)
