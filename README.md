@@ -36,7 +36,8 @@
 ![image (1)](https://github.com/user-attachments/assets/b530097a-37d0-46c9-9b5e-bea4ed3a65d1)
 
 <Figma Design>
-![image (2)](https://github.com/user-attachments/assets/3c09c6d0-ef89-4fa2-8c21-20b9e668b4a7)
+![image (2)](https://github.com/user-attachments/assets/a4919cd2-1bb6-4528-b570-b4c32c2bde6b)
+  
 ![image (3)](https://github.com/user-attachments/assets/5863381c-4ab7-48fb-9912-c217aa9d79a1)
 
 
