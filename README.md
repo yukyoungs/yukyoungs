@@ -18,13 +18,13 @@
 
 ## 📂 주요 프로젝트
 ### [1. 쇼핑몰 웹사이트](https://github.com/username/shopping-mall)
-- **기술 스택**: Node.js, Express, MYSQL
-- **역할**: 백엔드 개발 (API 설계 및 데이터베이스 구축)
-- **결과**: 실시간 상품 관리 및 주문 처리 시스템 구현.
-- **링크**: [프로젝트 코드](https://github.com/username/shopping-mall)
+- **기술 스택**: Node.js, Express, MYSQL, HTML, CSS, JavaScript
+- **역할**: 풀스택 개발 (API 설계 및 데이터베이스 구축)
+- **결과**: 사용자 인증/실시간 상품 관리 및 주문 처리 시스템 구현.
+- **링크**: https://github.com/yukyoungs/shopping-mall 
 
-### [2. 주식 포트폴리오 추천 웹사이트](https://github.com/username/stock-portfolio)
-- **기술 스택**: React, Node.js, Chart.js
+### [2. 쓰담쓰담 앱.웹](https://github.com/username/stock-portfolio)
+- **기술 스택**: React, Flutter
 - **역할**: 프론트엔드 개발 (사용자 경험 최적화, 데이터 시각화)
 - **결과**: 사용자 맞춤형 주식 포트폴리오 제공.
 - **링크**: [프로젝트 코드](https://github.com/username/stock-portfolio)
@@ -33,19 +33,20 @@
 
 ## 🌱 현재 진행 중
 - **Flutter 앱 개발**: 사용자 맞춤형 서비스 제공 대학 앱.
-- **학습 중**: 
+- ![image](https://github.com/user-attachments/assets/3c1a6510-4041-45c8-b4f4-1f464e0b2732)
+- ![image](https://github.com/user-attachments/assets/f18399db-7a4c-42b6-80a0-b4949ba4cf7a)
 
 ---
 
 ## 📬 연락처
 - **GitHub**: [https://github.com/yukyoungs](https://github.com/yukyoungs)
 - **이메일**: syk9848@gmail.com
-- **LinkedIn**: [https://linkedin.com/in/username](https://linkedin.com/in/username)
+- **Notion**: https://www.notion.so/186a215313fc80c28bfaea873df27759
 
 ---
 
 ## ✨ 기타
-- 블로그: [기술 블로그](https://yourblog.com)
+- 블로그: [기술 블로그] https://yuuu0.tistory.com/
 - 취미: 기술 블로그 작성, 알고리즘 문제 풀이, 새로운 기술 탐구
 
 
