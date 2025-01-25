@@ -33,6 +33,15 @@
 -       https://www.notion.so/186a215313fc81b2a58dc8d2825c412b?v=186a215313fc81c2a22e000cb2374391
 - <img width="743" alt="쓰담쓰담 사진" src="https://github.com/user-attachments/assets/d86fdc10-4f2d-4569-a218-bffd019e2742" />
 
+![image (1)](https://github.com/user-attachments/assets/b530097a-37d0-46c9-9b5e-bea4ed3a65d1)
+
+<Figma Design>
+![image (2)](https://github.com/user-attachments/assets/3c09c6d0-ef89-4fa2-8c21-20b9e668b4a7)
+![image (3)](https://github.com/user-attachments/assets/5863381c-4ab7-48fb-9912-c217aa9d79a1)
+
+
+
+
 
 ---
 
