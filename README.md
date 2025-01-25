@@ -35,6 +35,8 @@
 
 ![image (1)](https://github.com/user-attachments/assets/b530097a-37d0-46c9-9b5e-bea4ed3a65d1)
 
+<img width="921" alt="쓰담쓰담 협업" src="https://github.com/user-attachments/assets/2f2219f2-83cd-43b6-af99-31e71be72bea" />
+
 <Figma Design>
   
 ![image (2)](https://github.com/user-attachments/assets/a4919cd2-1bb6-4528-b570-b4c32c2bde6b)
