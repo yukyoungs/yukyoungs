@@ -22,13 +22,14 @@
 - **역할**: 풀스택 개발 (API 설계 및 데이터베이스 구축)
 - **결과**: 사용자 인증/실시간 상품 관리 및 주문 처리 시스템 구현.
 - **링크**: https://github.com/yukyoungs/shopping-mall
-- ![image.png](attachment:7049079e-8502-4611-ab58-f630f9e47fd2:image.png)
+![image](https://github.com/user-attachments/assets/060c188f-0f99-4405-891c-3742474db9e1)
 
 ### [2. 쓰담쓰담 앱.웹](https://github.com/username/stock-portfolio)
 - **기술 스택**: React, Flutter
 - **역할**: 프론트엔드 개발 (사용자 경험 최적화, 데이터 시각화)
 - **결과**: 사용자 맞춤형 주식 포트폴리오 제공.
-- **링크**:
+- **링크**: https://github.com/Ssdam-Ssdam
+-       https://www.notion.so/186a215313fc81b2a58dc8d2825c412b?v=186a215313fc81c2a22e000cb2374391
 - <img width="743" alt="쓰담쓰담 사진" src="https://github.com/user-attachments/assets/d86fdc10-4f2d-4569-a218-bffd019e2742" />
 
 
