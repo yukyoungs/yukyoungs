@@ -22,6 +22,7 @@
 - **역할**: 풀스택 개발 (API 설계 및 데이터베이스 구축)
 - **결과**: 사용자 인증/실시간 상품 관리 및 주문 처리 시스템 구현.
 - **링크**: https://github.com/yukyoungs/shopping-mall
+- 
 ![image](https://github.com/user-attachments/assets/060c188f-0f99-4405-891c-3742474db9e1)
 
 ### [2. 쓰담쓰담 앱.웹](https://github.com/username/stock-portfolio)
