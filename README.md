@@ -19,7 +19,7 @@
 ## 📂 주요 프로젝트
 ### [1. 쇼핑몰 웹사이트](https://github.com/yukyoungs/shopping-mall)
 - **기술 스택**: Node.js, Express, MYSQL, HTML, CSS, JavaScript
-- **역할**: 풀스택 개발 (API 설계 및 데이터베이스 구축)
+- **역할**: 백엔드 위주의 풀스택 개발 (API 설계 및 데이터베이스 구축)
 - **결과**: 사용자 인증/실시간 상품 관리 및 주문 처리 시스템 구현.
 - **링크**: https://github.com/yukyoungs/shopping-mall
 - 
