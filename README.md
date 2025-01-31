@@ -51,9 +51,15 @@
 
 <img width="604" alt="서비스 유스케이스모델" src="https://github.com/user-attachments/assets/3da3193e-6227-4788-81e2-2301f6fef9f9" />
 
+![image](https://github.com/user-attachments/assets/2647ee1a-deaf-44bf-b21b-9d318ab4f211)
+
 ![image](https://github.com/user-attachments/assets/669ddec1-b4dc-496b-97ba-8b34a37d207d)
 
+![image](https://github.com/user-attachments/assets/5e6d57a9-a9fd-40e2-9714-6e7eca01c804)
+
 ![image](https://github.com/user-attachments/assets/6a322fbe-4ba9-4ebe-9540-67369ff9aee4)
+
+![image](https://github.com/user-attachments/assets/807ca340-984c-438c-9b80-198c74998c03)
 
 ![image](https://github.com/user-attachments/assets/0292fc70-1446-4930-ab45-0f3d92938615)
 
