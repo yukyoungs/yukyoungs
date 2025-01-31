@@ -51,6 +51,31 @@
 
 <img width="604" alt="서비스 유스케이스모델" src="https://github.com/user-attachments/assets/3da3193e-6227-4788-81e2-2301f6fef9f9" />
 
+![image](https://github.com/user-attachments/assets/669ddec1-b4dc-496b-97ba-8b34a37d207d)
+
+![image](https://github.com/user-attachments/assets/6a322fbe-4ba9-4ebe-9540-67369ff9aee4)
+
+![image](https://github.com/user-attachments/assets/0292fc70-1446-4930-ab45-0f3d92938615)
+
+![image](https://github.com/user-attachments/assets/d62b3cb1-2115-4073-bccc-fe6509762c2c)
+
+![image](https://github.com/user-attachments/assets/a21bcef1-b71f-4eff-b2b6-07a8510ac716)
+
+![image](https://github.com/user-attachments/assets/1b922e65-003b-421f-b2b6-48b12579e46f)
+
+![image](https://github.com/user-attachments/assets/d5fe4af6-6cb0-4df9-ae67-fa292bbe7f5c)
+
+![image](https://github.com/user-attachments/assets/2a4a14f8-a18b-44ea-855e-fce97ed3e552)
+
+![image](https://github.com/user-attachments/assets/ff1a91fb-a29d-4e9b-967c-903679104997)
+
+![image](https://github.com/user-attachments/assets/f0a30b43-9797-494d-8f6b-eeac34000d61)
+
+![image](https://github.com/user-attachments/assets/4148276d-f179-4fcf-8986-16f17e7167e8)
+
+
+
+
 <Figma Design>
   
 ![image (2)](https://github.com/user-attachments/assets/a4919cd2-1bb6-4528-b570-b4c32c2bde6b)
