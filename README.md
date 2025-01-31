@@ -25,6 +25,9 @@
 - 
 ![image](https://github.com/user-attachments/assets/060c188f-0f99-4405-891c-3742474db9e1)
 
+![image](https://github.com/user-attachments/assets/6c233db5-d20c-4fda-a495-81b319b5392e)
+
+
 ### [2. 쓰담쓰담 앱.웹](https://github.com/Ssdam-Ssdam)
 - **기술 스택**: React, Flutter, RestAPI, docker, MySQL, HTML
 - **역할**: 프론트엔드 개발 (사용자 경험 최적화, 데이터 시각화)
