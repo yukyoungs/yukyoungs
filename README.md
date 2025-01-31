@@ -65,8 +65,11 @@
 
 ## 🌱 현재 진행 중
 - **Flutter 앱 개발**: 사용자 맞춤형 서비스 제공 대학 앱.
-- ![image](https://github.com/user-attachments/assets/3c1a6510-4041-45c8-b4f4-1f464e0b2732)
-- ![image](https://github.com/user-attachments/assets/f18399db-7a4c-42b6-80a0-b4949ba4cf7a)
+<img width="797" alt="동아리 figma1" src="https://github.com/user-attachments/assets/a6a881a7-31aa-42b6-85a5-0aefecfe0f27" />
+
+<img width="907" alt="동아리 figma2" src="https://github.com/user-attachments/assets/8e15a6c5-8ceb-4a50-97c3-986f0b8c6f16" />
+
+
 
 ---
 
