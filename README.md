@@ -40,7 +40,7 @@
 ### [2. 쓰담쓰담 앱.웹](https://github.com/Ssdam-Ssdam)
 - **기술 스택**: React, Flutter, RestAPI, docker, MySQL, HTML
 - **역할**: 프론트엔드 개발 (사용자 경험 최적화, 데이터 시각화)
-- **결과**: 사용자 맞춤형 주식 포트폴리오 제공.
+- **결과**: 대형 폐기물 수수료 측정 서비스 제공/사용자 주소기반 주변 대형 폐기물 스티커 판매점 위치 제공.
 - **링크**: https://github.com/Ssdam-Ssdam
 -       https://www.notion.so/186a215313fc81b2a58dc8d2825c412b?v=186a215313fc81c2a22e000cb2374391
 - <img width="743" alt="쓰담쓰담 사진" src="https://github.com/user-attachments/assets/d86fdc10-4f2d-4569-a218-bffd019e2742" />
