@@ -107,7 +107,7 @@
 ## 📬 연락처
 - **GitHub**: [https://github.com/yukyoungs](https://github.com/yukyoungs)
 - **이메일**: syk9848@gmail.com
-- **Notion**: https://www.notion.so/186a215313fc80c28bfaea873df27759
+- **Notion**: 
 
 ---
 
