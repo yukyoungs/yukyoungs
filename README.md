@@ -1,57 +1,74 @@
-<p align="center">
-   🖥️ Song Yu Kyeong 🖥️ <br/><br/><br/>
-</p>
+<h3 align="center">✨ Skills ✨</h3>
 
+<div align="center">
 
-## 🚀 보유 스킬
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukyoungs&layout=compact" />
   
-### 💻 Languages  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=fff"/>
+  <br><br>
 
-### 🧰 Frameworks & Libraries  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff"/>
+  <!-- 🔧 Frameworks -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
 
-### 🗃️ Databases  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff"/>
+  <br><br>
 
-### ⚙️ Tools & Platforms  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff"/>
+  <!-- 💻 Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
 
-</p>
+  <br><br>
 
----
+  <!-- 🗃️ Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />&nbsp
 
-## 📈 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukyoungs&layout=compact" alt="Top Langs"/>
-</p>
+<br>
 
----
+<h3 align="center">🛠 Tools 🛠</h3>
 
-## 📫 연락처
+<div align="center">
 
-<p align="center">
-  ✉️ Email: syk9848@gmail.com <br/>
-  📝 Blog: <a href="https://your-blog-url.com">블로그 바로가기</a><br/>
-  💼 Portfolio: <a href="https://your-portfolio.com">포트폴리오 보기</a>
-</p>
+  <!-- 💻 개발 도구 -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+
+  <br><br>
+
+  <!-- 🧠 협업 도구 -->
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Miricanvas-03C75A?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
+
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+
+<div align="center">
+  <a href="https://yuuu0.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="mailto:syk9848@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 
----
+
+
+
 
 <!--
 # 👋 안녕하세요! 저는 송유경입니다.
