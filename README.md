@@ -1,5 +1,52 @@
 ## Hi there 👋
 
+# Song yu kyeong
+
+---
+
+## 🚀 보유 스킬
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=fff)
+
+### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukyoungs&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukyoungs&layout=compact)
+
+---
+
+## 📫 연락처
+- Email: syk9848@gmail.com  
+- Blog: [블로그 주소]  
+- Portfolio: [포트폴리오 링크]
+
+---
+
+함께 성장하는 개발자가 되겠습니다. 감사합니다 🙇
+
 
 <!--
 # 👋 안녕하세요! 저는 송유경입니다.
