@@ -1,52 +1,64 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Song+Yu+Kyeong" alt="Typing SVG" />
+</p>
 
-# Song yu kyeong
+---
+
+<p align="center">
+  🌟 Song Yu Kyeong입니다.<br/>
+</p>
 
 ---
 
 ## 🚀 보유 스킬
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=fff)
+<p align="center">
+  
+### 💻 Languages  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=fff"/>
 
-### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff)
+### 🧰 Frameworks & Libraries  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff"/>
 
-### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+### 🗃️ Databases  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff"/>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff)
+### ⚙️ Tools & Platforms  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff"/>
+
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yukyoungs&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukyoungs&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukyoungs&layout=compact" alt="Top Langs"/>
+</p>
 
 ---
 
 ## 📫 연락처
-- Email: syk9848@gmail.com  
-- Blog: [블로그 주소]  
-- Portfolio: [포트폴리오 링크]
+
+<p align="center">
+  ✉️ Email: syk9848@gmail.com <br/>
+  📝 Blog: <a href="https://your-blog-url.com">블로그 바로가기</a><br/>
+  💼 Portfolio: <a href="https://your-portfolio.com">포트폴리오 보기</a>
+</p>
+
 
 ---
-
-함께 성장하는 개발자가 되겠습니다. 감사합니다 🙇
-
 
 <!--
 # 👋 안녕하세요! 저는 송유경입니다.
