@@ -1,22 +1,12 @@
 <h1 align="center"> yukyeong's github 👋</h1>
 
 
-<br/>
+<p align="center">
+  <a href="https://gitanimals.org">
+    <img src="https://render.gitanimals.org/farms/yukyoungs" width="600" height="300"/>
+  </a>
+</p>
 
-## 🐾 My Animals
-
-<a href="https://gitanimals.org">
-  <img src="https://render.gitanimals.org/farms/yukyoungs" width="600" height="300"/>
-</a>
-
-## 🐾 My Animals
-
-<a href="https://gitanimals.org">
-  <img src="https://render.gitanimals.org/lines/yukyoungs" width="600" height="120"/>
-</a>
-
-
-<br/>
 
 ## 🛠 Tech Stack
 
