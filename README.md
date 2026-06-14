@@ -54,7 +54,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🤖 Vitamin 7</h3>
       <a href="https://github.com/dktechin-pbl">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/vitamin7.png" width="100%"/>
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/vitamin7.png" width="100%"/>
       </a>
       <br/><br/>
       <p align="left">
