@@ -70,7 +70,7 @@
     <td width="50%" valign="top" align="center">
       <h3>💤 mong</h3>
       <a href="https://github.com/Octa-Cloud">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/mong.png" width="100%"/>
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/mong.png" width="100%"/>
       </a>
       <br/><br/>
       <p align="left">
@@ -88,7 +88,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🌱 스마트팜 모니터링</h3>
       <a href="레포링크">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/smartfarm.png" width="100%"/>
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/smartfarm.png" width="100%"/>
       </a>
       <br/><br/>
       <p align="left">
@@ -101,7 +101,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🗑️ 쓰담쓰담</h3>
       <a href="https://github.com/Ssdam-Ssdam">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/ssdam.png" width="100%"/>
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/ssdam.png" width="100%"/>
       </a>
       <br/><br/>
       <p align="left">
