@@ -49,15 +49,104 @@
 
 ## 📌 Projects
 
-| 프로젝트 | 설명 | 역할 | 기술 스택 | 기간 |
-|---|---|---|---|---|
-| **[Vitamin 7](https://github.com/dktechin-pbl)** | 카카오워크 AI 챗봇 관리 플랫폼 (멀티테넌트 SaaS) | 백엔드 - 인증/보안 아키텍처 전담 | Spring Boot · PostgreSQL · Redis · gRPC · WebSocket | 2025.10~12 |
-| **[mong](https://github.com/Octa-Cloud)** | EEG 뇌파 기반 수면 분석 플랫폼 (MSA) | 백엔드 - 회원 탈퇴 분산 트랜잭션 주도 구현 | Spring Boot · Kafka · MongoDB · MySQL · Redis | 2025.09~10 |
-| **[스마트팜 모니터링](레포링크)** | IoT 기반 농장 환경 실시간 모니터링 앱 | 프론트엔드 - 대시보드 UI 설계 및 구현 (인턴) | Flutter | 2025.03~06 |
-| **[쓰담쓰담](https://github.com/Ssdam-Ssdam)** | AI 기반 대형 폐기물 수수료 측정 앱/웹 | 프론트엔드 - React 반응형 웹 & Flutter 앱 개발 | React · Flutter · FastAPI · EfficientNet B0 | 2024.11~12 |
-| **[쇼핑몰](https://github.com/yukyoungs/shopping-mall)** | 사용자 인증·장바구니·관리자 기능을 갖춘 쇼핑몰 | 풀스택 - 백엔드 위주 | Node.js · Express · MySQL | 2024.10~11 |
-| **[HR 피드백 감성 분석](https://github.com/yukyoungs/hr-feedback-sentiment-analysis)** | HR 피드백 텍스트 감성 분석 미니 프로젝트 | 개인 프로젝트 | Python · Hugging Face · pandas · SQLite | 2026.06 |
-
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 Vitamin 7</h3>
+      <a href="https://github.com/dktechin-pbl">
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/vitamin7.png" width="100%"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        카카오워크 AI 챗봇 관리 플랫폼 (멀티테넌트 SaaS)<br/>
+        <b>역할:</b> 백엔드 · 인증/보안 아키텍처 전담<br/>
+        <b>기간:</b> 2025.10 ~ 2025.12
+      </p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>💤 mong</h3>
+      <a href="https://github.com/Octa-Cloud">
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/mong.png" width="100%"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        EEG 뇌파 기반 수면 분석 플랫폼 (MSA · 11개 서비스)<br/>
+        <b>역할:</b> 백엔드 · 분산 트랜잭션 주도 구현<br/>
+        <b>기간:</b> 2025.09 ~ 2025.10
+      </p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🌱 스마트팜 모니터링</h3>
+      <a href="레포링크">
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/smartfarm.png" width="100%"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        IoT 기반 농장 환경 실시간 모니터링 앱 (인턴)<br/>
+        <b>역할:</b> 프론트엔드 · 대시보드 UI 설계<br/>
+        <b>기간:</b> 2025.03 ~ 2025.06
+      </p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🗑️ 쓰담쓰담</h3>
+      <a href="https://github.com/Ssdam-Ssdam">
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/ssdam.png" width="100%"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        AI 기반 대형 폐기물 수수료 측정 앱/웹<br/>
+        <b>역할:</b> 프론트엔드 · React 반응형 웹 & Flutter 앱<br/>
+        <b>기간:</b> 2024.11 ~ 2024.12
+      </p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🛒 쇼핑몰</h3>
+      <a href="https://github.com/yukyoungs/shopping-mall">
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/shop.png" width="100%"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        사용자 인증 · 장바구니 · 관리자 기능 쇼핑몰<br/>
+        <b>역할:</b> 풀스택 · 백엔드 위주<br/>
+        <b>기간:</b> 2024.10 ~ 2024.11
+      </p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🐾 HR 피드백 감성 분석</h3>
+      <a href="https://github.com/yukyoungs/hr-feedback-sentiment-analysis">
+        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/hr.png" width="100%"/>
+      </a>
+      <br/><br/>
+      <p align="left">
+        HR 피드백 텍스트 감성 분석 미니 프로젝트<br/>
+        <b>역할:</b> 개인 프로젝트<br/>
+        <b>기간:</b> 2026.06
+      </p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 📬 Contact
