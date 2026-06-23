@@ -1,4 +1,4 @@
-<h1 align="center"> yukyeong's github 👋</h1>
+<h1 align="center"> yukyeong's github </h1>
 
 
 <p align="center">
