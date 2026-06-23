@@ -8,147 +8,108 @@
 </p>
 
 
+<br/>
 
-## 🛠 Tech Stack
+## 🛠 Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
 **Infra & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**AI / Data**
-
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br/>
-
-## 📌 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🤖 Vitamin 7</h3>
-      <a href="https://github.com/dktechin-pbl">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/vitamin7.png" width="100%"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        카카오워크 AI 챗봇 관리 플랫폼 (멀티테넌트 SaaS)<br/>
-        <b>역할:</b> 백엔드 · 인증/보안 아키텍처 전담<br/>
-        <b>기간:</b> 2025.10 ~ 2025.12
-      </p>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>💤 mong</h3>
-      <a href="https://github.com/Octa-Cloud">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/mong.png" width="100%"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        EEG 뇌파 기반 수면 분석 플랫폼 (MSA · 11개 서비스)<br/>
-        <b>역할:</b> 백엔드 · 분산 트랜잭션 주도 구현<br/>
-        <b>기간:</b> 2025.09 ~ 2025.10
-      </p>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🌱 스마트팜 모니터링</h3>
-      <a href="레포링크">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/smartfarm.png" width="100%"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        IoT 기반 농장 환경 실시간 모니터링 앱 (인턴)<br/>
-        <b>역할:</b> 프론트엔드 · 대시보드 UI 설계<br/>
-        <b>기간:</b> 2025.03 ~ 2025.06
-      </p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🗑️ 쓰담쓰담</h3>
-      <a href="https://github.com/Ssdam-Ssdam">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/ssdam.png" width="100%"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        AI 기반 대형 폐기물 수수료 측정 앱/웹<br/>
-        <b>역할:</b> 프론트엔드 · React 반응형 웹 & Flutter 앱<br/>
-        <b>기간:</b> 2024.11 ~ 2024.12
-      </p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🛒 쇼핑몰</h3>
-      <a href="https://github.com/yukyoungs/shopping-mall">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/shop.png" width="100%"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        사용자 인증 · 장바구니 · 관리자 기능 쇼핑몰<br/>
-        <b>역할:</b> 풀스택 · 백엔드 위주<br/>
-        <b>기간:</b> 2024.10 ~ 2024.11
-      </p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🐾 HR 피드백 감성 분석</h3>
-      <a href="https://github.com/yukyoungs/hr-feedback-sentiment-analysis">
-        <img src="https://raw.githubusercontent.com/yukyoungs/yukyoungs/main/images/hr.png" width="100%"/>
-      </a>
-      <br/><br/>
-      <p align="left">
-        HR 피드백 텍스트 감성 분석 미니 프로젝트<br/>
-        <b>역할:</b> 개인 프로젝트<br/>
-        <b>기간:</b> 2026.06
-      </p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-    </td>
-  </tr>
-</table>
 
 
 ## 📬 Contact
 
 [![Gmail](https://img.shields.io/badge/syk9848@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:syk9848@gmail.com)
+
+<br/>
+
+
+## 💼 Work
+
+- **프론트엔드 인턴** (2025.03 ~ 2025.06)
+  - IoT 스마트팜 모니터링 App/Web 개발, 실시간 관제 대시보드 UI 설계 및 구현
+
+<br/>
+
+## 🌱 Experience
+
+- **Leets** | 교내 IT·개발 동아리 · Backend (2026.03 ~ )
+- **카카오엔터프라이즈 SW아카데미 7기** | 대학·기업 협력형 과정 수료 (2025.09 ~ 2025.12)
+- **KKSC** | 교내 IT·개발 동아리 · Frontend (2024.09 ~ 2025.02)
+- **와글와글 해커톤 제3회** | 수료 (2025.02.21 ~ 22)
+
+<br/>
+
+## 📂 Key Projects
+
+### 1. MONG | EEG 뇌파 기반 수면 분석 플랫폼
+> **Role:** Backend Engineer · **기간:** 2025.09 ~ 2025.10
+
+- **분산 트랜잭션 처리**: Saga Pattern 기반 회원 탈퇴 로직을 구현해 여러 서비스 간 데이터 정합성 보장
+- **Polyglot Persistence 전략**: MongoDB·MySQL 특성에 맞춘 데이터 모델링 및 스키마 설계
+- **성능 & 관찰성**: 쿼리/응답 성능 최적화 및 Observability 확보
+- **AI 지원**: 수면 분석 및 리포트 생성 백엔드 지원
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### 2. 카카오워크 챗봇 관리 플랫폼 | 멀티테넌트 SaaS
+> **Role:** Backend Engineer (Auth / Security) · **기간:** 2025.10 ~ 2025.12
+
+- **인증·보안 아키텍처 전면 담당**: 인증(Auth) 및 보안 설계 주도
+- **멀티테넌트 격리**: SaaS형 테넌트 데이터 격리 및 권한 관리 구현
+- **API 설계**: RESTful API 설계 및 서비스 연동, 견고한 백엔드 개발 원칙 적용
+- **Persistence 최적화**: ORM/SQL Mapper를 활용한 Persistence Layer 최적화
+- **개발 인프라**: CI/CD 파이프라인 구축 및 코드 리뷰 문화 정착
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### 3. 스마트팜 모니터링 App/Web | 실시간 IoT 관제
+> **Role:** Frontend · **기간:** 2025.03 ~ 2025.06 (인턴)
+
+- **실시간 관제 UI**: 안전 제어 로직이 적용된 실시간 IoT 대시보드 및 관제 화면 설계·구현
+- **데이터 시각화**: 실시간 환경 데이터 시각화 및 대시보드 구축
+- **안전 기반 제어**: 환경·설비 제어 UI를 안전 우선 원칙으로 설계
+- **커스터마이징**: 유연한 위젯 기반 대시보드 커스터마이징 지원
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+<br/>
+
+
