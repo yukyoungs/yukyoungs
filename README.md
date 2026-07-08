@@ -32,7 +32,7 @@
 
 ## 📂 Key Projects
 
-### 1. MONG | EEG 뇌파 기반 수면 분석 플랫폼
+### 1. MONG | EEG 뇌파 기반 수면 분석 플랫폼 
 > **Role:** Backend Engineer · **기간:** 2025.09 ~ 2025.10
 
 - **분산 트랜잭션 처리**: Saga Pattern 기반 회원 탈퇴 로직을 구현해 여러 서비스 간 데이터 정합성 보장
