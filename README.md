@@ -34,7 +34,7 @@
 
 
 ### 1. Job.is | AI 커리어 큐레이션 플랫폼 
-🏆 Leets 최우수상
+🏆 Leets Demo-day 최우수상
 > **Role:** Backend Engineer / Infra · **기간:** 2026.07 ~ 2026.08
 - **AWS 인프라 구축**: EC2/RDS/S3 기반 dev·prod 환경 분리, 도메인·HTTPS 적용
 - **CI/CD 파이프라인**: GitHub Actions + GHCR 기반 자동 배포 파이프라인 구축
