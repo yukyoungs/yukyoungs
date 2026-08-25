@@ -17,12 +17,14 @@
 - **FE 개발 인턴** (2025.03 ~ 2025.06)
   - 로봇 수직농장 플랫폼 "Intelli-Farm" 개발 및 고도화
   - IoT 스마트팜 모니터링 App/Web 개발, 실시간 관제 대시보드 UI 설계 및 구현
+ 
+- ** ㅡ **
 
 <br/>
 
 ## 🌱 Experience
 
-- **Leets** | 교내 IT·개발 동아리 · Backend (2026.03 ~ 2026.008)
+- **Leets** | 교내 IT·개발 동아리 · Backend (2026.03 ~ 2026.08)
 - **Kakao Enterprise SW Academy 7기** | 대학·기업 협력형 과정 수료 · Backend (2025.09 ~ 2025.12)
 - **DKTechin 기업실무** | 대학·기업 협력형 과정 수료 · Backend (2025.10 ~ 2025.12)
 - **KKSC** | 교내 IT·개발 동아리 · Frontend (2024.09 ~ 2025.02)
