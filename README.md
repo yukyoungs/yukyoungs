@@ -23,7 +23,7 @@
 
 ## 🌱 Experience
 
-- **Leets** | 
+- **Leets** | 교내 IT·개발 동아리 · 운영진 (2026.09 ~ )
 - **Leets** | 교내 IT·개발 동아리 · Backend (2026.03 ~ 2026.08)
 - **Kakao Enterprise SW Academy 7기** | 대학·기업 협력형 과정 수료 · Backend (2025.09 ~ 2025.12)
 - **DKTechin 기업실무** | 대학·기업 협력형 과정 수료 · Backend (2025.10 ~ 2025.12)
